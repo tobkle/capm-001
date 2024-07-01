@@ -1,0 +1,12 @@
+{
+  "name": "capm-devcontainer-template",
+  "version": "1.0.0",
+  "description": "SAP CAPM Development Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tobias Klemmer",
+  "license": "ISC"
+}
